@@ -7,4 +7,3 @@ tensorflow
 jupyter
 notebook
 ipykernel
-opencv-python
